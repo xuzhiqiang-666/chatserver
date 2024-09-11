@@ -251,9 +251,11 @@ src/client/CMakeFiles/ChatClient.dir/main.cpp.o: \
  /usr/include/asm-generic/sockios.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_osockaddr.h \
  /usr/include/netinet/in.h /usr/include/x86_64-linux-gnu/bits/in.h \
- /usr/include/arpa/inet.h \
- /home/ubuntu/code/chat/chatserver/include/server/model/user.hpp \
- /home/ubuntu/code/chat/chatserver/include/public.hpp \
+ /usr/include/arpa/inet.h /usr/include/semaphore.h \
+ /usr/include/x86_64-linux-gnu/bits/semaphore.h \
+ /usr/include/c++/11/atomic \
  /home/ubuntu/code/chat/chatserver/include/server/model/group.hpp \
  /home/ubuntu/code/chat/chatserver/include/server/model/groupuser.hpp \
- /home/ubuntu/code/chat/chatserver/include/server/model/user.hpp
+ /home/ubuntu/code/chat/chatserver/include/server/model/user.hpp \
+ /home/ubuntu/code/chat/chatserver/include/server/model/user.hpp \
+ /home/ubuntu/code/chat/chatserver/include/public.hpp

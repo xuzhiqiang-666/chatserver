@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/ubuntu/code/chat/chatserver/build/src/server",
+  "command": "/usr/bin/g++  -I/home/ubuntu/code/chat/chatserver/include -I/home/ubuntu/code/chat/chatserver/include/server -I/home/ubuntu/code/chat/chatserver/include/server/model -I/home/ubuntu/code/chat/chatserver/include/server/db -I/home/ubuntu/code/chat/chatserver/include/server/redis -I/home/ubuntu/code/chat/chatserver/thirdparty -g -g -o CMakeFiles/ChatServer.dir/chatserver.cc.o -c /home/ubuntu/code/chat/chatserver/src/server/chatserver.cc",
+  "file": "/home/ubuntu/code/chat/chatserver/src/server/chatserver.cc"
+},
+{
+  "directory": "/home/ubuntu/code/chat/chatserver/build/src/server",
+  "command": "/usr/bin/g++  -I/home/ubuntu/code/chat/chatserver/include -I/home/ubuntu/code/chat/chatserver/include/server -I/home/ubuntu/code/chat/chatserver/include/server/model -I/home/ubuntu/code/chat/chatserver/include/server/db -I/home/ubuntu/code/chat/chatserver/include/server/redis -I/home/ubuntu/code/chat/chatserver/thirdparty -g -g -o CMakeFiles/ChatServer.dir/chatservice.cpp.o -c /home/ubuntu/code/chat/chatserver/src/server/chatservice.cpp",
+  "file": "/home/ubuntu/code/chat/chatserver/src/server/chatservice.cpp"
+},
+{
+  "directory": "/home/ubuntu/code/chat/chatserver/build/src/server",
+  "command": "/usr/bin/g++  -I/home/ubuntu/code/chat/chatserver/include -I/home/ubuntu/code/chat/chatserver/include/server -I/home/ubuntu/code/chat/chatserver/include/server/model -I/home/ubuntu/code/chat/chatserver/include/server/db -I/home/ubuntu/code/chat/chatserver/include/server/redis -I/home/ubuntu/code/chat/chatserver/thirdparty -g -g -o CMakeFiles/ChatServer.dir/main.cc.o -c /home/ubuntu/code/chat/chatserver/src/server/main.cc",
+  "file": "/home/ubuntu/code/chat/chatserver/src/server/main.cc"
+},
+{
+  "directory": "/home/ubuntu/code/chat/chatserver/build/src/server",
+  "command": "/usr/bin/g++  -I/home/ubuntu/code/chat/chatserver/include -I/home/ubuntu/code/chat/chatserver/include/server -I/home/ubuntu/code/chat/chatserver/include/server/model -I/home/ubuntu/code/chat/chatserver/include/server/db -I/home/ubuntu/code/chat/chatserver/include/server/redis -I/home/ubuntu/code/chat/chatserver/thirdparty -g -g -o CMakeFiles/ChatServer.dir/db/db.cpp.o -c /home/ubuntu/code/chat/chatserver/src/server/db/db.cpp",
+  "file": "/home/ubuntu/code/chat/chatserver/src/server/db/db.cpp"
+},
+{
+  "directory": "/home/ubuntu/code/chat/chatserver/build/src/server",
+  "command": "/usr/bin/g++  -I/home/ubuntu/code/chat/chatserver/include -I/home/ubuntu/code/chat/chatserver/include/server -I/home/ubuntu/code/chat/chatserver/include/server/model -I/home/ubuntu/code/chat/chatserver/include/server/db -I/home/ubuntu/code/chat/chatserver/include/server/redis -I/home/ubuntu/code/chat/chatserver/thirdparty -g -g -o CMakeFiles/ChatServer.dir/model/friendmodel.cpp.o -c /home/ubuntu/code/chat/chatserver/src/server/model/friendmodel.cpp",
+  "file": "/home/ubuntu/code/chat/chatserver/src/server/model/friendmodel.cpp"
+},
+{
+  "directory": "/home/ubuntu/code/chat/chatserver/build/src/server",
+  "command": "/usr/bin/g++  -I/home/ubuntu/code/chat/chatserver/include -I/home/ubuntu/code/chat/chatserver/include/server -I/home/ubuntu/code/chat/chatserver/include/server/model -I/home/ubuntu/code/chat/chatserver/include/server/db -I/home/ubuntu/code/chat/chatserver/include/server/redis -I/home/ubuntu/code/chat/chatserver/thirdparty -g -g -o CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o -c /home/ubuntu/code/chat/chatserver/src/server/model/groupmodel.cpp",
+  "file": "/home/ubuntu/code/chat/chatserver/src/server/model/groupmodel.cpp"
+},
+{
+  "directory": "/home/ubuntu/code/chat/chatserver/build/src/server",
+  "command": "/usr/bin/g++  -I/home/ubuntu/code/chat/chatserver/include -I/home/ubuntu/code/chat/chatserver/include/server -I/home/ubuntu/code/chat/chatserver/include/server/model -I/home/ubuntu/code/chat/chatserver/include/server/db -I/home/ubuntu/code/chat/chatserver/include/server/redis -I/home/ubuntu/code/chat/chatserver/thirdparty -g -g -o CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o -c /home/ubuntu/code/chat/chatserver/src/server/model/offlinemessagemodel.cpp",
+  "file": "/home/ubuntu/code/chat/chatserver/src/server/model/offlinemessagemodel.cpp"
+},
+{
+  "directory": "/home/ubuntu/code/chat/chatserver/build/src/server",
+  "command": "/usr/bin/g++  -I/home/ubuntu/code/chat/chatserver/include -I/home/ubuntu/code/chat/chatserver/include/server -I/home/ubuntu/code/chat/chatserver/include/server/model -I/home/ubuntu/code/chat/chatserver/include/server/db -I/home/ubuntu/code/chat/chatserver/include/server/redis -I/home/ubuntu/code/chat/chatserver/thirdparty -g -g -o CMakeFiles/ChatServer.dir/model/usermodel.cpp.o -c /home/ubuntu/code/chat/chatserver/src/server/model/usermodel.cpp",
+  "file": "/home/ubuntu/code/chat/chatserver/src/server/model/usermodel.cpp"
+},
+{
+  "directory": "/home/ubuntu/code/chat/chatserver/build/src/server",
+  "command": "/usr/bin/g++  -I/home/ubuntu/code/chat/chatserver/include -I/home/ubuntu/code/chat/chatserver/include/server -I/home/ubuntu/code/chat/chatserver/include/server/model -I/home/ubuntu/code/chat/chatserver/include/server/db -I/home/ubuntu/code/chat/chatserver/include/server/redis -I/home/ubuntu/code/chat/chatserver/thirdparty -g -g -o CMakeFiles/ChatServer.dir/redis/redis.cpp.o -c /home/ubuntu/code/chat/chatserver/src/server/redis/redis.cpp",
+  "file": "/home/ubuntu/code/chat/chatserver/src/server/redis/redis.cpp"
+},
+{
+  "directory": "/home/ubuntu/code/chat/chatserver/build/src/client",
+  "command": "/usr/bin/g++  -I/home/ubuntu/code/chat/chatserver/include -I/home/ubuntu/code/chat/chatserver/include/server -I/home/ubuntu/code/chat/chatserver/include/server/model -I/home/ubuntu/code/chat/chatserver/include/server/db -I/home/ubuntu/code/chat/chatserver/include/server/redis -I/home/ubuntu/code/chat/chatserver/thirdparty -g -g -o CMakeFiles/ChatClient.dir/main.cpp.o -c /home/ubuntu/code/chat/chatserver/src/client/main.cpp",
+  "file": "/home/ubuntu/code/chat/chatserver/src/client/main.cpp"
+}
+]
