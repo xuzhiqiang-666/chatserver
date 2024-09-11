@@ -8,15 +8,15 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/ubuntu/code/chat/src/server/chatserver.cc" "src/server/CMakeFiles/ChatServer.dir/chatserver.cc.o" "gcc" "src/server/CMakeFiles/ChatServer.dir/chatserver.cc.o.d"
-  "/home/ubuntu/code/chat/src/server/chatservice.cpp" "src/server/CMakeFiles/ChatServer.dir/chatservice.cpp.o" "gcc" "src/server/CMakeFiles/ChatServer.dir/chatservice.cpp.o.d"
-  "/home/ubuntu/code/chat/src/server/db/db.cpp" "src/server/CMakeFiles/ChatServer.dir/db/db.cpp.o" "gcc" "src/server/CMakeFiles/ChatServer.dir/db/db.cpp.o.d"
-  "/home/ubuntu/code/chat/src/server/main.cc" "src/server/CMakeFiles/ChatServer.dir/main.cc.o" "gcc" "src/server/CMakeFiles/ChatServer.dir/main.cc.o.d"
-  "/home/ubuntu/code/chat/src/server/model/friendmodel.cpp" "src/server/CMakeFiles/ChatServer.dir/model/friendmodel.cpp.o" "gcc" "src/server/CMakeFiles/ChatServer.dir/model/friendmodel.cpp.o.d"
-  "/home/ubuntu/code/chat/src/server/model/groupmodel.cpp" "src/server/CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o" "gcc" "src/server/CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o.d"
-  "/home/ubuntu/code/chat/src/server/model/offlinemessagemodel.cpp" "src/server/CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o" "gcc" "src/server/CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o.d"
-  "/home/ubuntu/code/chat/src/server/model/usermodel.cpp" "src/server/CMakeFiles/ChatServer.dir/model/usermodel.cpp.o" "gcc" "src/server/CMakeFiles/ChatServer.dir/model/usermodel.cpp.o.d"
-  "/home/ubuntu/code/chat/src/server/redis/redis.cpp" "src/server/CMakeFiles/ChatServer.dir/redis/redis.cpp.o" "gcc" "src/server/CMakeFiles/ChatServer.dir/redis/redis.cpp.o.d"
+  "/home/ubuntu/code/chat/chatserver/src/server/chatserver.cc" "src/server/CMakeFiles/ChatServer.dir/chatserver.cc.o" "gcc" "src/server/CMakeFiles/ChatServer.dir/chatserver.cc.o.d"
+  "/home/ubuntu/code/chat/chatserver/src/server/chatservice.cpp" "src/server/CMakeFiles/ChatServer.dir/chatservice.cpp.o" "gcc" "src/server/CMakeFiles/ChatServer.dir/chatservice.cpp.o.d"
+  "/home/ubuntu/code/chat/chatserver/src/server/db/db.cpp" "src/server/CMakeFiles/ChatServer.dir/db/db.cpp.o" "gcc" "src/server/CMakeFiles/ChatServer.dir/db/db.cpp.o.d"
+  "/home/ubuntu/code/chat/chatserver/src/server/main.cc" "src/server/CMakeFiles/ChatServer.dir/main.cc.o" "gcc" "src/server/CMakeFiles/ChatServer.dir/main.cc.o.d"
+  "/home/ubuntu/code/chat/chatserver/src/server/model/friendmodel.cpp" "src/server/CMakeFiles/ChatServer.dir/model/friendmodel.cpp.o" "gcc" "src/server/CMakeFiles/ChatServer.dir/model/friendmodel.cpp.o.d"
+  "/home/ubuntu/code/chat/chatserver/src/server/model/groupmodel.cpp" "src/server/CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o" "gcc" "src/server/CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o.d"
+  "/home/ubuntu/code/chat/chatserver/src/server/model/offlinemessagemodel.cpp" "src/server/CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o" "gcc" "src/server/CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o.d"
+  "/home/ubuntu/code/chat/chatserver/src/server/model/usermodel.cpp" "src/server/CMakeFiles/ChatServer.dir/model/usermodel.cpp.o" "gcc" "src/server/CMakeFiles/ChatServer.dir/model/usermodel.cpp.o.d"
+  "/home/ubuntu/code/chat/chatserver/src/server/redis/redis.cpp" "src/server/CMakeFiles/ChatServer.dir/redis/redis.cpp.o" "gcc" "src/server/CMakeFiles/ChatServer.dir/redis/redis.cpp.o.d"
   )
 
 # Targets to which this target links.
